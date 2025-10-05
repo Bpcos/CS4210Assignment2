@@ -63,7 +63,7 @@ for i, test_instance in enumerate(db):
 
 #Print the error rate
 error_rate = false_predictions / total_predictions
-print(f'Error rate: {error_rate}')
+#print(f'Error rate: {error_rate}')
 
 
 

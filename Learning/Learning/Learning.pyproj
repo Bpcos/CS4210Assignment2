@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>7419e448-69e1-4701-985d-874a8de06971</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>knn.py</StartupFile>
+    <StartupFile>decision_tree_2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
